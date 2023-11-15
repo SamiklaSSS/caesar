@@ -61,8 +61,7 @@ Piemēri:
   
 ## Ieraksti neatbilstošus specifikācijas punktus zemāk un piemini kāpēc tie neatblist
 Šeit:
-
-Izmaiņas saglabā savā repozitorijā (Commit changes).  
+Ja ievadīts teksts ir ar maziem būrtiem - konvertēt tos uz lielajiem burtiem. Tā sanāca
 
 ## Uzrādi uzdevumu rezultātu pedagogam  
 
