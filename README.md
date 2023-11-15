@@ -62,7 +62,7 @@ Piemēri:
 ## Ieraksti neatbilstošus specifikācijas punktus zemāk un piemini kāpēc tie neatblist
 Šeit:
 Ja ievadīts teksts ir ar maziem būrtiem - konvertēt tos uz lielajiem burtiem. //Tā sanāca.
-Ja ir ievadīts neatbilstošs režīms - tiek paradīts kļūdas paziņojums. //Nav tāda paziņojuma, nav apredzēts.
+Ja ir ievadīts neatbilstošs režīms - tiek paradīts kļūdas paziņojums. //Nav tāda paziņojuma, nav paredzēts.
 
 ## Uzrādi uzdevumu rezultātu pedagogam  
 
